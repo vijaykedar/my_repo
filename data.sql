@@ -1,2 +1,2 @@
-create database if not exists studentproject;
-use studentproject;
+create database if not exists djangoproject;
+use djangoproject;
